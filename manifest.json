@@ -1,5 +1,5 @@
 {
   "Version": "1.0.0",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/tag/v1.0.0",
-  "ReleaseNotes": "SnipEX Version 1.0 Stable. Update checks now detect GitHub stable releases automatically, patch notes use a compact themed window, draft releases are ignored, and shutdown reliability was improved."
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.0/SnipEx-1.0.0-win-x64-Setup.exe",
+  "ReleaseNotes": "SnipEX Version 1.0 Stable now uses a guided Windows Setup executable and an MSI for managed deployment. Installation no longer requires PowerShell, remains per-user without elevation, preserves local snippet data during upgrades, and starts minimized with Windows."
 }

@@ -4,9 +4,9 @@ This public repository is the official SnipEX update-feed and release-notes chan
 
 ## Current channel status
 
-Version 0.12.23 is the current internal testing build. Public binary downloads are intentionally withheld while Club OS Tech reviews code signing, Microsoft company access, and separation of the bundled company snippet library from the executable.
+Version 0.13.0 is the first stable employee-testing build. Public binary downloads remain intentionally withheld while Club OS Tech reviews code signing, Microsoft company access, and separation of the bundled company snippet library from the executable.
 
-The `manifest.json` file is consumed by SnipEX for daily update checks. When an approved version is published, the client displays its version, patch notes, and official download link.
+Current clients read the published GitHub Release directly and fall back to `manifest.json` for compatibility. When a newer stable version is available, SnipEX displays its version and compact patch notes, then opens the official release page.
 
 ## Security
 

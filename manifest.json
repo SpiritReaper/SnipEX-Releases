@@ -1,5 +1,5 @@
 {
-  "Version": "0.12.23",
-  "DownloadUrl": null,
-  "ReleaseNotes": "GitHub update infrastructure added. Update checks now use the official public manifest and display patch notes. Shutdown reliability was improved, and a stale token was removed from an imported legacy Help Center link."
+  "Version": "0.13.0",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/tag/v0.13.0",
+  "ReleaseNotes": "Update checks now detect GitHub stable releases automatically. Patch notes use a compact themed window. Draft releases are ignored, preview releases remain optional, and shutdown reliability was improved."
 }

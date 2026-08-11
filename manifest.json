@@ -1,5 +1,5 @@
 {
-    "Version":  "1.0.2",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.2/SnipEx-1.0.2-win-x64-Setup.exe",
-    "ReleaseNotes":  "Version 1.0.2 Stable keeps fill-in text exactly as entered, preserves whitespace in rich email insertion, and hides the internal End optional marker from expansion windows."
+    "Version":  "1.0.3",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.3/SnipEx-1.0.3-win-x64-Setup.exe",
+    "ReleaseNotes":  "Version 1.0.3 Stable adds private shared workspace synchronization for all snippets outside Just Me / My Snippets, offline caching, safe three-way conflict handling, synchronized categories, and upgrade-safe preservation of personal and shared data."
 }

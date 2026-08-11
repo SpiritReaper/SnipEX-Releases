@@ -1,5 +1,5 @@
 {
   "Version": "1.0.0",
   "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.0/SnipEx-1.0.0-win-x64-Setup.exe",
-  "ReleaseNotes": "SnipEX Version 1.0 Stable now uses a guided Windows Setup executable and an MSI for managed deployment. Installation no longer requires PowerShell, remains per-user without elevation, preserves local snippet data during upgrades, and starts minimized with Windows."
+  "ReleaseNotes": "Version 1.0 Stable adds GitHub collaborator-only sign-in with profile display, fixes Preferences and dark-theme settings saves, preserves legacy settings, and improves Start-with-Windows reliability. Existing v1.0.0 users must reinstall this same-version replacement once."
 }

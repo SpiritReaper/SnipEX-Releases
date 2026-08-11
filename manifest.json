@@ -1,0 +1,5 @@
+{
+  "Version": "0.12.23",
+  "DownloadUrl": null,
+  "ReleaseNotes": "GitHub update infrastructure added. Update checks now use the official public manifest and display patch notes. Shutdown reliability was improved, and a stale token was removed from an imported legacy Help Center link."
+}

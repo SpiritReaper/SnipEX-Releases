@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.4",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.4/SnipEx-1.0.4-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.4/SnipEx-1.0.4-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Version 1.0.4 Stable adds launch-time update notifications, compact patch notes, an in-client download progress bar, SHA-256 verification, silent installation, and automatic restart while preserving snippets and preferences."
+    "Version":  "1.0.5",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.5/SnipEx-1.0.5-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.5/SnipEx-1.0.5-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Version 1.0.5 Stable fixes shared snippet edits not appearing on another open client. Incoming shared changes are checked every 30 seconds and apply automatically unless that client has genuine unsaved editor work."
 }

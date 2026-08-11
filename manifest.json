@@ -1,5 +1,5 @@
 {
-  "Version": "0.13.0",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/tag/v0.13.0",
-  "ReleaseNotes": "Update checks now detect GitHub stable releases automatically. Patch notes use a compact themed window. Draft releases are ignored, preview releases remain optional, and shutdown reliability was improved."
+  "Version": "1.0.0",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/tag/v1.0.0",
+  "ReleaseNotes": "SnipEX Version 1.0 Stable. Update checks now detect GitHub stable releases automatically, patch notes use a compact themed window, draft releases are ignored, and shutdown reliability was improved."
 }

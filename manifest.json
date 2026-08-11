@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.0/SnipEx-1.0.0-win-x64-Setup.exe",
-  "ReleaseNotes": "Version 1.0 Stable adds GitHub collaborator-only sign-in with profile display, fixes Preferences and dark-theme settings saves, preserves legacy settings, and improves Start-with-Windows reliability. Existing v1.0.0 users must reinstall this same-version replacement once."
+    "Version":  "1.0.1",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.1/SnipEx-1.0.1-win-x64-Setup.exe",
+    "ReleaseNotes":  "Version 1.0.1 Stable fixes installed-client upgrades, cleanly closes a running SnipEx instance before replacement, preserves snippets and preferences, adds Launch SnipEx to successful setup, and corrects the stretched installer logo."
 }

@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.7",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.7/SnipEx-1.0.7-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.7/SnipEx-1.0.7-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Version 1.0.7 Stable disables shared scripts, adds shared-template sensitive-content gates, restricts shared editing to the designated owner in the client, adds security scanning and dependency gates, and pins the Authenticode publisher for future signed updates."
+    "Version":  "1.0.8",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.8/SnipEx-1.0.8-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.8/SnipEx-1.0.8-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Testing collaborators with shared-library write access can now create, edit, move, duplicate, and delete synchronized snippets. Read-only accounts remain read-only. Shared-script and sensitive-content protections remain enabled."
 }

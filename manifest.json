@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.11",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.11/SnipEx-1.0.11-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.11/SnipEx-1.0.11-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Fixed the Preferences crash caused by a missing theme resource. Preferences initialization failures are now contained so SnipEX remains running and restores expansion. Submit an Idea now emails pfonte@club-os.com. Existing snippets, cache, GitHub session, and preferences are preserved."
+    "Version":  "1.0.12",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.12/SnipEx-1.0.12-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.12/SnipEx-1.0.12-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Fixed duplicate snippets so the new copy is immediately selected, highlighted, and editable. Moving a snippet now relocates the same record without leaving a source duplicate. macOS now respects Play sound. Unsaved category drafts are discarded. Existing snippets, cache, GitHub session, and preferences are preserved."
 }

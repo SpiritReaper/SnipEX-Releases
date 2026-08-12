@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.9",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.9/SnipEx-1.0.9-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.9/SnipEx-1.0.9-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "The main search box now searches My Snippets, every Organization group, and every custom category. Active queries are labeled Search results, and clearing the query returns to the selected group. Existing snippet data and preferences are preserved."
+    "Version":  "1.0.10",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.10/SnipEx-1.0.10-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.10/SnipEx-1.0.10-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Collaborator sign-in now verifies secure access to both private SnipEX repositories without requiring GitHub collaborator-management permissions. Valid collaborators no longer receive the Resource not accessible by integration error. Missing invitations now show direct recovery instructions. Existing snippets, cache, and preferences are preserved."
 }

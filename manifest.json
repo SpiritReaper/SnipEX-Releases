@@ -1,6 +1,7 @@
 {
-    "Version":  "2.0.2",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.2/SnipEx-2.0.2-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.2/SnipEx-2.0.2-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "The fill-in window is now compact and remains resizable. First-time Setup can open its live installation log. Updates remain silent inside SnipEX, remove superseded program files, preserve snippets and preferences, and restart automatically without administrator elevation."
+    "Version":  "2.0.3",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.3/SnipEx-2.0.3-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.3/SnipEx-2.0.3-win-x64-Setup.exe.sha256",
+    "Sha256":  "bd4f11d9a2d85551917cef25c1cbc01d4e571d39ff702044c6d142458873cad5",
+    "ReleaseNotes":  "Startup updates are enabled by default and install only on a fresh launch, never during an active session. The five-second shared-library refresh remains near real time while unchanged revisions now skip database reconciliation and repeated settings/cache writes. Pending local edits retry automatically after temporary connection failures."
 }

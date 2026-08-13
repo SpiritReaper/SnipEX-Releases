@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.14",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.14/SnipEx-1.0.14-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.14/SnipEx-1.0.14-win-x64-Setup.exe.sha256",
-  "ReleaseNotes": "Fixed newly created snippet rows so hover, selection, reopening, and the three-dot actions work immediately after first save without switching categories. Existing snippets, preferences, cache data, and GitHub sessions are preserved."
+    "Version":  "1.0.15",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.15/SnipEx-1.0.15-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.15/SnipEx-1.0.15-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Added creator attribution for shared snippets and an admin-only Audit page that records create, edit, move, and remove activity without storing snippet bodies or fill-in values. Shared audit events sync across clients, and legacy data upgrades automatically."
 }

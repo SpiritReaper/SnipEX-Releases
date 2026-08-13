@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.3",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.3/SnipEx-2.0.3-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.3/SnipEx-2.0.3-win-x64-Setup.exe.sha256",
-    "Sha256":  "bd4f11d9a2d85551917cef25c1cbc01d4e571d39ff702044c6d142458873cad5",
-    "ReleaseNotes":  "Startup updates are enabled by default and install only on a fresh launch, never during an active session. The five-second shared-library refresh remains near real time while unchanged revisions now skip database reconciliation and repeated settings/cache writes. Pending local edits retry automatically after temporary connection failures."
+    "Version":  "2.0.4",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.4/SnipEx-2.0.4-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.4/SnipEx-2.0.4-win-x64-Setup.exe.sha256",
+    "Sha256":  "c505df1adc1cacead203e47b947da673f75bd9d5f7b90c4b621d923c28272e72",
+    "ReleaseNotes":  "Preferences \u003e Account now displays the authenticated GitHub profile picture in a true circular crop matching the main account card. Initials remain as a fallback when an avatar is unavailable or cannot be loaded."
 }

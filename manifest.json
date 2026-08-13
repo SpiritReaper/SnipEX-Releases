@@ -1,6 +1,6 @@
 {
-    "Version":  "2.0.1",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.1/SnipEx-2.0.1-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.1/SnipEx-2.0.1-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Completed update downloads and SnipEX installer logs are now removed automatically after restart. Cleanup remains restricted to update artifacts and preserves snippets, settings, diagnostics, synchronization data, migration backups, and the required Windows installer cache."
+    "Version":  "2.0.2",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.2/SnipEx-2.0.2-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.2/SnipEx-2.0.2-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "The fill-in window is now compact and remains resizable. First-time Setup can open its live installation log. Updates remain silent inside SnipEX, remove superseded program files, preserve snippets and preferences, and restart automatically without administrator elevation."
 }

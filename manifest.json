@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.0",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.0/SnipEx-2.0.0-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.0/SnipEx-2.0.0-win-x64-Setup.exe.sha256",
-  "ReleaseNotes": "First-time GitHub setup now displays the required one-time device code in SnipEX, includes a Copy code action, and opens GitHub's standard device authorization page. Returning users continue using their protected saved session unless it expires or access is revoked."
+    "Version":  "2.0.1",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.1/SnipEx-2.0.1-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.1/SnipEx-2.0.1-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Completed update downloads and SnipEX installer logs are now removed automatically after restart. Cleanup remains restricted to update artifacts and preserves snippets, settings, diagnostics, synchronization data, migration backups, and the required Windows installer cache."
 }

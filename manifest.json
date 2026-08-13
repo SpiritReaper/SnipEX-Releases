@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.16",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.16/SnipEx-1.0.16-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.16/SnipEx-1.0.16-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Added GitHub avatars with compact @username attribution in shared snippet headers and the admin Audit log. First-time collaborator authorization now opens a prefilled GitHub page in the default browser, so no device code needs to be typed or pasted."
+  "Version": "1.0.17",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.17/SnipEx-1.0.17-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.17/SnipEx-1.0.17-win-x64-Setup.exe.sha256",
+  "ReleaseNotes": "Fixed new and duplicated snippets so they can be hovered and selected immediately without changing folders. Also fixed a crash when pasting plain text into an empty new snippet while preserving its line spacing."
 }

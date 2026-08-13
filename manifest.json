@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.5",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.5/SnipEx-2.0.5-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.5/SnipEx-2.0.5-win-x64-Setup.exe.sha256",
-    "Sha256":  "dd425d0271766353897960753bb18f83c94afff5b3a803608f9f4a4c08e3c222",
-    "ReleaseNotes":  "Preferences \u003e Account now uses the fully loaded, centered GitHub profile picture in a balanced circular frame. Account also displays the signed-in user access level as Administrator, Editor, or Read-only."
+    "Version":  "2.0.6",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.6/SnipEx-2.0.6-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.6/SnipEx-2.0.6-win-x64-Setup.exe.sha256",
+    "Sha256":  "4594897fbc5216afb2d2e77b3aaf38f0baa7168e34cc1146784b61e39c5d0122",
+    "ReleaseNotes":  "Multi-line fill-ins now keep their guidance text inside the field, support bottom-right resizing during expansion, and retain the distinct ≡ marker in the snippet editor. Single-line fields remain compact."
 }

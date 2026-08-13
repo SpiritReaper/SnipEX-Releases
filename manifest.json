@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.17",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.17/SnipEx-1.0.17-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.17/SnipEx-1.0.17-win-x64-Setup.exe.sha256",
-  "ReleaseNotes": "Fixed new and duplicated snippets so they can be hovered and selected immediately without changing folders. Also fixed a crash when pasting plain text into an empty new snippet while preserving its line spacing."
+  "Version": "2.0.0",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.0/SnipEx-2.0.0-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.0/SnipEx-2.0.0-win-x64-Setup.exe.sha256",
+  "ReleaseNotes": "First-time GitHub setup now displays the required one-time device code in SnipEX, includes a Copy code action, and opens GitHub's standard device authorization page. Returning users continue using their protected saved session unless it expires or access is revoked."
 }

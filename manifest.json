@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.6",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.6/SnipEx-2.0.6-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.6/SnipEx-2.0.6-win-x64-Setup.exe.sha256",
-    "Sha256":  "4594897fbc5216afb2d2e77b3aaf38f0baa7168e34cc1146784b61e39c5d0122",
-    "ReleaseNotes":  "Multi-line fill-ins now keep their guidance text inside the field, support bottom-right resizing during expansion, and retain the distinct ≡ marker in the snippet editor. Single-line fields remain compact."
+    "Version":  "2.0.7",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.7/SnipEx-2.0.7-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.7/SnipEx-2.0.7-win-x64-Setup.exe.sha256",
+    "Sha256":  "a34e91d70fbae9e87ffb5f90b317f5c84a9b48a3ecb06c42db6aca9da178ff3b",
+    "ReleaseNotes":  "Multi-line fill-ins now use a compact dotted resize grip. Internal optional-end markers are hidden while optional sections remain intact. Clipboard tokens insert the current clipboard text verbatim when the abbreviation expands."
 }

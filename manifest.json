@@ -1,6 +1,6 @@
 {
-    "Version":  "1.0.15",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.15/SnipEx-1.0.15-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.15/SnipEx-1.0.15-win-x64-Setup.exe.sha256",
-    "ReleaseNotes":  "Added creator attribution for shared snippets and an admin-only Audit page that records create, edit, move, and remove activity without storing snippet bodies or fill-in values. Shared audit events sync across clients, and legacy data upgrades automatically."
+    "Version":  "1.0.16",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.16/SnipEx-1.0.16-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v1.0.16/SnipEx-1.0.16-win-x64-Setup.exe.sha256",
+    "ReleaseNotes":  "Added GitHub avatars with compact @username attribution in shared snippet headers and the admin Audit log. First-time collaborator authorization now opens a prefilled GitHub page in the default browser, so no device code needs to be typed or pasted."
 }

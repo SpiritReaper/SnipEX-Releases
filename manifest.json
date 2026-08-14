@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.12",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.12/SnipEx-2.0.12-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.12/SnipEx-2.0.12-win-x64-Setup.exe.sha256",
-    "Sha256":  "dd8c3f286963358f52cb94fd8abdaa8f31c3b9d4b94306b028452d60ac7d6e47",
-    "ReleaseNotes":  "Custom folders are now created beneath Organization and synchronize immediately. Legacy named root groups, including Mass Email Templates, move safely into Organization while preserving snippet bodies, abbreviations, formatting, fill-ins, expansion, and seven-day NEW/UPDATED pins."
+    "Version":  "2.0.13",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.13/SnipEx-2.0.13-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.13/SnipEx-2.0.13-win-x64-Setup.exe.sha256",
+    "Sha256":  "c08cf57f7a047c92b6dfc96a6edf33e416d5d026f7eda420162cfb5e5a747af8",
+    "ReleaseNotes":  "Fixed tech_force and every other affected rich-text expansion so SnipEX interface theme colors are never pasted into target apps. Intentional text colors, formatting, fill-ins, lists, links, images, and emoji remain preserved."
 }

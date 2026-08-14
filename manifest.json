@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.9",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.9/SnipEx-2.0.9-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.9/SnipEx-2.0.9-win-x64-Setup.exe.sha256",
-    "Sha256":  "f2d83619594c706161435f18e1d16ff6813f47e363b175fe05a6a19aa75a260d",
-    "ReleaseNotes":  "New snippets display a seven-day NEW ribbon. HubSpot/browser pastes now retain emoji, bold headings, lists, spacing, and supported rich formatting by finalizing Rich Text detection after Windows completes the paste."
+    "Version":  "2.0.10",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.10/SnipEx-2.0.10-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.10/SnipEx-2.0.10-win-x64-Setup.exe.sha256",
+    "Sha256":  "f2d72df382893808580fc4011404a346dae8dc99cf4e14229384e92d1da23952",
+    "ReleaseNotes":  "HubSpot rich-text paste and Preview now preserve semantic headings, paragraph spacing, separators, lists, links, emphasis, inline colors, and emoji. New and recently edited snippets show compact seven-day NEW or UPDATED corner ribbons. Existing stored snippets are not reformatted or overwritten."
 }

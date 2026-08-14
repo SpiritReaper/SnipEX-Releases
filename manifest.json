@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.11",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.11/SnipEx-2.0.11-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.11/SnipEx-2.0.11-win-x64-Setup.exe.sha256",
-    "Sha256":  "005d2819ea1dc07eaa4979b016d3ecc115cff5f18147bdd39f1b2861be944ea1",
-    "ReleaseNotes":  "Newly created and duplicated snippets are immediately selectable without changing categories. Organization snippets now use subtle red NEW and blue UPDATED edge pins for seven days; Just Me stays unmarked, and moving a personal snippet into Organization starts its NEW period."
+    "Version":  "2.0.12",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.12/SnipEx-2.0.12-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.12/SnipEx-2.0.12-win-x64-Setup.exe.sha256",
+    "Sha256":  "dd8c3f286963358f52cb94fd8abdaa8f31c3b9d4b94306b028452d60ac7d6e47",
+    "ReleaseNotes":  "Custom folders are now created beneath Organization and synchronize immediately. Legacy named root groups, including Mass Email Templates, move safely into Organization while preserving snippet bodies, abbreviations, formatting, fill-ins, expansion, and seven-day NEW/UPDATED pins."
 }

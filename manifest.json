@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.8",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.8/SnipEx-2.0.8-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.8/SnipEx-2.0.8-win-x64-Setup.exe.sha256",
-    "Sha256":  "aa8ae2cfae9ca209969df296f1291af3b5d9ff902dfbfaf9d3f51f45dbdf84df",
-    "ReleaseNotes":  "Emoji, paragraph spacing, divider lines, hashtags, and underscores now round-trip safely into HubSpot. Pasted **bold** markers become real rich-text bold. Shared-snippet creator avatars now load reliably, stay centered, and retain initials as a fallback."
+    "Version":  "2.0.9",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.9/SnipEx-2.0.9-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.9/SnipEx-2.0.9-win-x64-Setup.exe.sha256",
+    "Sha256":  "f2d83619594c706161435f18e1d16ff6813f47e363b175fe05a6a19aa75a260d",
+    "ReleaseNotes":  "New snippets display a seven-day NEW ribbon. HubSpot/browser pastes now retain emoji, bold headings, lists, spacing, and supported rich formatting by finalizing Rich Text detection after Windows completes the paste."
 }

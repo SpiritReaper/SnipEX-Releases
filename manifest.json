@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.10",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.10/SnipEx-2.0.10-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.10/SnipEx-2.0.10-win-x64-Setup.exe.sha256",
-    "Sha256":  "f2d72df382893808580fc4011404a346dae8dc99cf4e14229384e92d1da23952",
-    "ReleaseNotes":  "HubSpot rich-text paste and Preview now preserve semantic headings, paragraph spacing, separators, lists, links, emphasis, inline colors, and emoji. New and recently edited snippets show compact seven-day NEW or UPDATED corner ribbons. Existing stored snippets are not reformatted or overwritten."
+    "Version":  "2.0.11",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.11/SnipEx-2.0.11-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.11/SnipEx-2.0.11-win-x64-Setup.exe.sha256",
+    "Sha256":  "005d2819ea1dc07eaa4979b016d3ecc115cff5f18147bdd39f1b2861be944ea1",
+    "ReleaseNotes":  "Newly created and duplicated snippets are immediately selectable without changing categories. Organization snippets now use subtle red NEW and blue UPDATED edge pins for seven days; Just Me stays unmarked, and moving a personal snippet into Organization starts its NEW period."
 }

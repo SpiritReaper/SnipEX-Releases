@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.7",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.7/SnipEx-2.0.7-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.7/SnipEx-2.0.7-win-x64-Setup.exe.sha256",
-    "Sha256":  "a34e91d70fbae9e87ffb5f90b317f5c84a9b48a3ecb06c42db6aca9da178ff3b",
-    "ReleaseNotes":  "Multi-line fill-ins now use a compact dotted resize grip. Internal optional-end markers are hidden while optional sections remain intact. Clipboard tokens insert the current clipboard text verbatim when the abbreviation expands."
+    "Version":  "2.0.8",
+    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.8/SnipEx-2.0.8-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.8/SnipEx-2.0.8-win-x64-Setup.exe.sha256",
+    "Sha256":  "aa8ae2cfae9ca209969df296f1291af3b5d9ff902dfbfaf9d3f51f45dbdf84df",
+    "ReleaseNotes":  "Emoji, paragraph spacing, divider lines, hashtags, and underscores now round-trip safely into HubSpot. Pasted **bold** markers become real rich-text bold. Shared-snippet creator avatars now load reliably, stay centered, and retain initials as a fallback."
 }

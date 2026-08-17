@@ -2,6 +2,6 @@
   "Version": "2.1.2",
   "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.2/SnipEx-2.1.2-win-x64-Setup.exe",
   "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.2/SnipEx-2.1.2-win-x64-Setup.exe.sha256",
-  "Sha256": "ea08a41be4580a9ab87a971b7a9158d565a96e4c668d3f937aff3b34ebac3137",
-  "ReleaseNotes": "Previously verified collaborators now remain authorized through GitHub outages and rate limits using Railway's persistent last-known-authorized roster. Unknown devices still fail closed; confirmed removals and administrator revocation purge the account and active sessions. Existing sessions enroll silently on their first 2.1.2 launch."
+  "Sha256": "9a4006d21bbde240d93833c224cea25b11391025a620a386bb8a4369ef49a9e2",
+  "ReleaseNotes": "Previously verified collaborators now remain authorized through GitHub outages and rate limits using Railway's persistent last-known-authorized roster, including after the saved GitHub token reaches refresh time. Unknown devices still fail closed; confirmed removals and administrator revocation purge the account and active sessions. Existing sessions enroll silently on their first 2.1.2 launch."
 }

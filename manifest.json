@@ -1,7 +1,7 @@
 {
-    "Version":  "2.0.13",
-    "DownloadUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.13/SnipEx-2.0.13-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.0.13/SnipEx-2.0.13-win-x64-Setup.exe.sha256",
-    "Sha256":  "c08cf57f7a047c92b6dfc96a6edf33e416d5d026f7eda420162cfb5e5a747af8",
-    "ReleaseNotes":  "Fixed tech_force and every other affected rich-text expansion so SnipEX interface theme colors are never pasted into target apps. Intentional text colors, formatting, fill-ins, lists, links, images, and emoji remain preserved."
+  "Version": "2.1.0",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.0/SnipEx-2.1.0-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.0/SnipEx-2.1.0-win-x64-Setup.exe.sha256",
+  "Sha256": "6207ce1ae2347e38652554602d126d277da96f82e205aeab26d74478725aedd3",
+  "ReleaseNotes": "Moved the shared Organization library to the private SnipEX Railway service with persistent storage, authenticated sessions, server-side roles, revision-safe synchronization, offline fallback, and preserved personal snippets. Routine library sync no longer consumes GitHub file API calls."
 }

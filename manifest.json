@@ -1,7 +1,7 @@
 {
-  "Version": "2.1.1",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.1/SnipEx-2.1.1-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.1/SnipEx-2.1.1-win-x64-Setup.exe.sha256",
-  "Sha256": "00fbee96b44c90045b41e0fe37e7d36637dfc1a42850f6975c81a1018c049369",
-  "ReleaseNotes": "Expansion is re-enabled once for affected 2.1.0 installs. All enabled bundled abbreviations are now validated and conflicting triggers repaired. Just Me / My Snippets now sync privately per GitHub account through Railway, with account isolation, offline cache, multi-device sessions, and safe conflict merging."
+  "Version": "2.1.2",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.2/SnipEx-2.1.2-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.2/SnipEx-2.1.2-win-x64-Setup.exe.sha256",
+  "Sha256": "ea08a41be4580a9ab87a971b7a9158d565a96e4c668d3f937aff3b34ebac3137",
+  "ReleaseNotes": "Previously verified collaborators now remain authorized through GitHub outages and rate limits using Railway's persistent last-known-authorized roster. Unknown devices still fail closed; confirmed removals and administrator revocation purge the account and active sessions. Existing sessions enroll silently on their first 2.1.2 launch."
 }

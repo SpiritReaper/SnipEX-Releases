@@ -1,7 +1,7 @@
 {
-  "Version": "2.1.0",
-  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.0/SnipEx-2.1.0-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.0/SnipEx-2.1.0-win-x64-Setup.exe.sha256",
-  "Sha256": "6207ce1ae2347e38652554602d126d277da96f82e205aeab26d74478725aedd3",
-  "ReleaseNotes": "Moved the shared Organization library to the private SnipEX Railway service with persistent storage, authenticated sessions, server-side roles, revision-safe synchronization, offline fallback, and preserved personal snippets. Routine library sync no longer consumes GitHub file API calls."
+  "Version": "2.1.1",
+  "DownloadUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.1/SnipEx-2.1.1-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/SpiritReaper/SnipEX-Releases/releases/download/v2.1.1/SnipEx-2.1.1-win-x64-Setup.exe.sha256",
+  "Sha256": "00fbee96b44c90045b41e0fe37e7d36637dfc1a42850f6975c81a1018c049369",
+  "ReleaseNotes": "Expansion is re-enabled once for affected 2.1.0 installs. All enabled bundled abbreviations are now validated and conflicting triggers repaired. Just Me / My Snippets now sync privately per GitHub account through Railway, with account isolation, offline cache, multi-device sessions, and safe conflict merging."
 }

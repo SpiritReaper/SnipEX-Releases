@@ -3,5 +3,5 @@
   "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe",
   "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe.sha256",
   "Sha256": "9fce5439e6e0c5f37cda361a67e984b6af1abd8684c1846b2375a9ae73f8e0e0",
-  "ReleaseNotes": "SnipEX 2.2.5 adds live installer status, fixes stalled Windows upgrades, refreshes renamed GitHub profiles and creator attribution, and moves application updates to the public SnipEX-Releases repository. Railway remains the private authorization and synchronized-library service."
+  "ReleaseNotes": "SnipEX 2.2.5 uses the Windows x64 compatibility package on Windows ARM64. It adds live installer status, fixes stalled upgrades, refreshes renamed GitHub profiles, and moves updates to the public SnipEX-Releases repository."
 }

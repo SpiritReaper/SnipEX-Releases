@@ -1,0 +1,7 @@
+{
+  "Version": "2.2.0",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.0-legacy-mac-arm64.dmg",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.0-legacy-mac-arm64.dmg.sha256",
+  "Sha256": "595e8931e8f60c89e12ba98e8090b056230038872d0a322f3daef2ee7890f247",
+  "ReleaseNotes": "SnipEX 2.2.0 remains the current macOS ARM64 compatibility build."
+}

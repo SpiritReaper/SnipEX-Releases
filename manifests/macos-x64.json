@@ -1,7 +1,7 @@
 {
   "Version": "2.2.0",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.0-legacy-mac-x64.dmg",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.0-legacy-mac-x64.dmg.sha256",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.0-legacy-mac-x64.dmg",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.0-legacy-mac-x64.dmg.sha256",
   "Sha256": "cf9758bc268c362b42775611f984d1f9b37986f6de5af338a9c714be3e1d64f1",
   "ReleaseNotes": "SnipEX 2.2.0 remains the current macOS x64 compatibility build."
 }

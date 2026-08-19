@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.6",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe.sha256",
-  "Sha256": "68d8c6126159ccff724fb2be7b94a76d7b6ad81f546c341416d89e2f733f6d1d",
-  "ReleaseNotes": "SnipEX 2.2.6 fixes dark and light Preview readability, refreshes the fill-in and account-menu icons, hardens Railway authorization and persistent-data safeguards, improves personal-library sync efficiency, and preserves checksum-verified in-client updates for the explicitly unsigned employee-testing channel."
+  "Version": "2.2.7",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.7-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.7/SnipEx-2.2.7-win-x64-Setup.exe.sha256",
+  "Sha256": "a0d0ddfddddce54ce9e462f77cd981a7d32a798cae86322673baadffc8d9c1e8",
+  "ReleaseNotes": "SnipEX 2.2.7 adds a local privacy-safe Debug menu with system status, safe-log access, and support-package export, and centers the cursor and expansion behavior toolbar icon."
 }

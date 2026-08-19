@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.6",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe.sha256",
-  "Sha256": "dba44d96fdd504f4e459f6febd5e7f8b77f4d2f148a1efaa7055d476e8617ce9",
-  "ReleaseNotes": "SnipEX 2.2.6 fixes dark and light Preview readability, refreshes the fill-in and account-menu icons, hardens Railway authorization and encrypted persistence, improves personal-library sync efficiency, and adds Tech-review security and recovery documentation."
+  "Version": "2.2.5",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe.sha256",
+  "Sha256": "9fce5439e6e0c5f37cda361a67e984b6af1abd8684c1846b2375a9ae73f8e0e0",
+  "ReleaseNotes": "SnipEX 2.2.5 adds live installer status, fixes stalled Windows upgrades, refreshes renamed GitHub profiles and creator attribution, and moves application updates to the public SnipEX-Releases repository."
 }

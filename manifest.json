@@ -1,7 +1,7 @@
 {
-  "Version": "2.2.5",
-  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe",
-  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.5/SnipEx-2.2.5-win-x64-Setup.exe.sha256",
-  "Sha256": "9fce5439e6e0c5f37cda361a67e984b6af1abd8684c1846b2375a9ae73f8e0e0",
-  "ReleaseNotes": "SnipEX 2.2.5 adds live installer status, fixes stalled Windows upgrades, refreshes renamed GitHub profiles and creator attribution, and moves application updates to the public SnipEX-Releases repository. Railway remains the private authorization and synchronized-library service."
+  "Version": "2.2.6",
+  "DownloadUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe",
+  "ChecksumUrl": "https://github.com/PeterDenali/SnipEX-Releases/releases/download/v2.2.6/SnipEx-2.2.6-win-x64-Setup.exe.sha256",
+  "Sha256": "68d8c6126159ccff724fb2be7b94a76d7b6ad81f546c341416d89e2f733f6d1d",
+  "ReleaseNotes": "SnipEX 2.2.6 fixes dark and light Preview readability, refreshes the fill-in and account-menu icons, hardens Railway authorization and persistent-data safeguards, improves personal-library sync efficiency, and preserves checksum-verified in-client updates for the explicitly unsigned employee-testing channel."
 }
